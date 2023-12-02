@@ -1,0 +1,218 @@
+
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header{
+    height: 60px;
+    width: 100%;
+    box-shadow: 0px 2px 0px 0px rgba(128,123,128,1);
+}
+
+.issuu_log{
+    width: 180px;
+    position: relative;
+    top: 5px;
+    left: 30px;
+}
+
+.issuu_img{
+    width: 100%;
+}
+
+.header_question{
+   position: absolute;
+    top: 8px;
+   right: 40px;
+}
+
+.phrase{
+    position: absolute;
+    top: 30px;
+    right: 60px;
+}
+
+.titulo_web {
+    position: absolute;
+    left: 80px;
+    top: 100px;
+}
+
+.caja_google {
+    border-radius: 5px;
+    background-color: #1A73E8;
+    width: 170px;
+    height: 31px;
+    position: absolute;
+    display: inline-block;
+    left: 80px;
+    top: 160px;
+}
+
+.img_google {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 4px;
+    top: 3px;
+}
+
+.url_google {
+    color: white;
+    font-family: math;
+    /* background-color: cadetblue; */
+    width: 135px;
+    height: 25px;
+    left: 35px;
+    top: 5px;
+    position: absolute;
+}
+
+.caja_facebook {
+    background-color: #4A69AD;
+    width: 195px;
+    height: 31px;
+    position: absolute;
+    top: 160px;
+    left: 270px;
+    border-radius: 5px;
+}
+
+.url_facebook {
+    color: white;
+    width: 165px;
+    height: 26px;
+    top: 5px;
+    left: 30px;
+    position: absolute;
+}
+
+.img_facebook {
+    width: 25px;
+    position: absolute;
+    left: 4px;
+    top: 4px;
+}
+
+.texto_sec {
+    position: absolute;
+    top: 210px;
+    left: 80px;
+}
+
+.registro_email {
+    position: absolute;
+    top: 250px;
+    left: 80px;
+}
+
+.email1 {
+    position: absolute;
+    top: 270px;
+    left: 80px;
+}
+
+.registro_contraseña {
+    position: absolute;
+    top: 300px;
+    left: 80px;
+}
+
+.email_texto {
+    width: 450px;
+}
+
+.contraseña {
+    width: 450px;
+    position: absolute;
+    top: 51px;
+    left: 0px;
+}
+
+.pasword1 {
+    position: absolute;
+    top: 320px;
+    left: 80px;
+}
+
+.check {
+    position: absolute;
+    top: 90px;
+    left: 0px;
+}
+
+.primera_de_frase {
+    position: absolute;
+    top: 87px;
+    left: 20px;
+}
+
+.segunda_de_frase {
+    color: #1A73E8;
+    position: absolute;
+    top: 87px;
+    width: 150px;
+    left: 96px;
+}
+
+.tercera_de_frase {
+    position: absolute;
+    top: 87px;
+    left: 209px;
+}
+
+.cuarta_de_frase {
+    color: #1A73E8;
+    position: absolute;
+    width: 200px;
+    top: 87px;
+    left: 260px;
+}
+
+.boton_crear {
+    position: absolute;
+    width: 100px;
+    top: 130px;
+    left: 0px;
+    color: grey;
+}
+
+.fotter {
+    position: fixed;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.issu_inc {
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+    color: grey;
+    font-family: system-ui;
+    width: 70px;
+}
+
+.Terms {
+    position: absolute;
+    bottom: 10px;
+    left: 163px;
+    color: black;
+}
+
+.privacy {
+    position: absolute;
+    bottom: 10px;
+    left: 220px;
+    color: black;
+}
+
+.dmca {
+    bottom: 10px;
+    position: absolute;
+    left: 290px;
+    color: black;
+}
